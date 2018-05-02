@@ -3,7 +3,7 @@ const yargs = require('yargs');
 const geocode = require('./geocode/geocode');
 const weather = require('./weather/weather');
 
-//77a22dc2b852b5654322dc56bb546ed9
+
 
 const argv = yargs
     .options({
